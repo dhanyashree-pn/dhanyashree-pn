@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanyashree-pn&label=Profile%20views&color=0e75b6&style=flat" alt="dhanyashree-pn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanyashree-pn" alt="dhanyashree-pn" /></a> </p>
-
 - 🔭 I’m currently working on **Generative AI.**
 
 - 📫 How to reach me **dhanyashreepn301@gmail.com**
