@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanyashree P N</h1>
 <h3 align="center">I Teach Machines How to Think (And Sometimes They Out-Smart Me)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanyashree-pn&label=Profile%20views&color=0e75b6&style=flat" alt="dhanyashree-pn" /> </p>
-
 - 🔭 I’m currently working on **Generative AI.**
 
 - 📫 How to reach me **dhanyashreepn301@gmail.com**
